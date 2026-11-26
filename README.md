@@ -1,6 +1,6 @@
 # Sharad Utsav 2026 — Ticketing & Booking System
 
-**Live Production URL:** _Pending Vercel deployment_  
+**Live Production URL:** https://sharad-utsav-2026.vercel.app/  
 **GitHub Repository:** https://github.com/biswajitbehura12/Sharad-Utsav-2026
 
 A full-stack Next.js (App Router) + TypeScript booking application for **Sharad Utsav 2026** at **Radha Krishna Temple, Allen, Texas** (Tue 10 Nov 2026 – Sat 14 Nov 2026).
